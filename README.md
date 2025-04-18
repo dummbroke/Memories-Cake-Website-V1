@@ -1,6 +1,6 @@
 # Memories Cake Website
 
-A modern, responsive landing page for "Memories Cake" - a fictional cake business. This single-page web application introduces users to the brand, showcases a gallery of cakes, and provides contact information.
+A modern, responsive landing page for "Memories Cake" - a cake business. This single-page web application introduces users to the brand, showcases a gallery of cakes, and provides contact information.
 
 ## Features
 
@@ -25,23 +25,10 @@ A modern, responsive landing page for "Memories Cake" - a fictional cake busines
 - Font Awesome (Icons)
 - Google Fonts (Montserrat and Playfair Display)
 
-## Getting Started
-
-1. Clone or download this repository
-2. Open `index.html` in a web browser
-3. No build process or special setup required
-
-## Customization
-
-- Replace placeholder images with actual cake images
-- Update contact information and business details
-- Modify colors in the CSS `:root` variables
-- Add/remove gallery items as needed
-
 ## License
 
 This project is available for personal and commercial use.
 
 ---
 
-Created by [Your Name] for demonstration purposes. 
+Created by Keen Thomas. 
